@@ -1,5 +1,5 @@
 # laboratorio-1
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If - bandit0  
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If - bandit0 
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx - bandit1  
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx - bandit2  
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ - bandit3  
@@ -30,5 +30,5 @@ Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN - bandit27
 qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL - bandit29  
 fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy - bandit30  
 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K - bandit31  
-tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0 - bandit32
+
 tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0 - bandit32 
