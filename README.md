@@ -1,2 +1,33 @@
 # laboratorio-1
-estudiante
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If - bandit0
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx - bandit1
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx - bandit2
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ - bandit3
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw - bandit4
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG - bandit5
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj - bandit6
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc - bandit7
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM - bandit8
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey - bandit9
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr - bandit10
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 - bandit11
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn - bandit12
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS - bandit13
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo - bandit14
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx - bandit15
+x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO - bandit16
+cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 - bandit18
+0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO - bandit19
+EeoULMCra2q0dSkYj561DX7s1CpBuOBt - bandit20
+tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q - bandit21
+0Zf11ioIjMVN551jX3CmStKLYqjk54Ga - bandit22
+gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 - bandit23
+iCi86ttT4KSNe1armKiwbQNmB3YJP3q4 - bandit24
+s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ - bandit25
+upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB - bandit26
+Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN - bandit27
+4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7 - bandit28
+qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL - bandit29
+fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy - bandit30
+3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K - bandit31
+tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0 - bandit32
